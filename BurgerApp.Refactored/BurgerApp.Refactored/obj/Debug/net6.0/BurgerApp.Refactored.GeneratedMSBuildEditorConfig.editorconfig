@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BurgerApp.Refactored
+build_property.RootNamespace = BurgerApp.Refactored
+build_property.ProjectDir = C:\Users\SlavePC\Desktop\New folder\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Refactored\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\SlavePC\Desktop\New folder\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Refactored
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/Menu/BestComboMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxCZXN0Q29tYm9NZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/Menu/BurgersMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxCdXJnZXJzTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/Menu/DrinksMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxEcmlua3NNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/Menu/FriesMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxGcmllc01lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/Menu/MainMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxNYWluTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/Order/CreateOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3JlYXRlT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/Order/EditOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRWRpdE9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/Order/SeeOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcU2VlT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/Shared/UnderstandableError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFVuZGVyc3RhbmRhYmxlRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SlavePC/Desktop/New folder/MyProjects/BigBiteBurgers-App-MVC/BurgerApp.Refactored/BurgerApp.Refactored/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-udtfuf1yeg

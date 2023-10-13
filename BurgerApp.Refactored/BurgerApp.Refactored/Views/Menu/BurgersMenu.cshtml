@@ -1,0 +1,27 @@
+﻿@using BurgerApp.Models.Domain;
+@model List<Burger>
+
+<div class="container d-flex justify-content-center flex-wrap margin-bottom-10rem">
+    @foreach (var Burger in Model)
+    {
+        <div class="card m-5" style="width: 18rem;">
+            <div class="card-body bg-warning">
+                <div class="d-flex justify-content-end">
+                    <p class="bg-dark text-light text-center" style="width:20%; border-radius:45%;">@Burger.Calories kcal</p>
+                </div>
+                <div class="d-flex flex-column align-items-center">
+                <img src="@Url.Content(Burger.RoadToImage)" style="width:130px; height:130px" alt="@Burger.Name">
+                    <h5 class="card-title text-center italic">@Burger.Name</h5>
+                <p class="text-center">
+                    @Burger.Description
+                </p>
+                </div>
+                <div class="d-flex justify-content-center mt-2 bg-black text-warning radius-30">
+                    <div>
+                        <span class="fw-bold price-font-size">$@Burger.Price</span>
+                    </div>
+                </div>
+            </div>
+        </div>  
+    }
+</div>

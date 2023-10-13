@@ -1,0 +1,68 @@
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.deps.json
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.AssemblyReference.cache
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfoInputs.cache
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfo.cs
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\refint\BurgerApp.Domain.dll
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\ref\BurgerApp.Domain.dll
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.deps.json
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.dll
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.pdb
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.AssemblyReference.cache
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfoInputs.cache
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfo.cs
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.dll
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\refint\BurgerApp.Domain.dll
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.pdb
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\ref\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.deps.json
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.pdb
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfoInputs.cache
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfo.cs
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.CoreCompileInputs.cache
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\refint\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.pdb
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\ref\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.deps.json
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfoInputs.cache
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfo.cs
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.CoreCompileInputs.cache
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\refint\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\ref\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.deps.json
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfoInputs.cache
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfo.cs
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.CoreCompileInputs.cache
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\refint\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\ref\BurgerApp.Domain.dll
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfoInputs.cache
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfo.cs
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\refint\BurgerApp.Domain.dll
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.deps.json
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Domain\obj\Debug\net6.0\ref\BurgerApp.Domain.dll

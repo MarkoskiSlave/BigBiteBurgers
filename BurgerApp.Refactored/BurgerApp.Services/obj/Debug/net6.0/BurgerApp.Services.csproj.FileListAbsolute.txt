@@ -1,0 +1,122 @@
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.deps.json
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.dll
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.pdb
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.dll
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Mappers.dll
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.pdb
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.AssemblyReference.cache
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfoInputs.cache
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfo.cs
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CopyComplete
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.dll
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\refint\BurgerApp.Services.dll
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.pdb
+C:\Users\SlavePC\Desktop\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\ref\BurgerApp.Services.dll
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.deps.json
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.dll
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.pdb
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.dll
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.dll
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Mappers.dll
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.pdb
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.pdb
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.AssemblyReference.cache
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfoInputs.cache
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfo.cs
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CopyComplete
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.dll
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\refint\BurgerApp.Services.dll
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.pdb
+D:\Seavus\ASP.NET (MVC) Web Applications\Domasna\Domasna4\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\ref\BurgerApp.Services.dll
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.deps.json
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.dll
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.pdb
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.dll
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Mappers.dll
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.pdb
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.pdb
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.AssemblyReference.cache
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfoInputs.cache
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfo.cs
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CoreCompileInputs.cache
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CopyComplete
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.dll
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\refint\BurgerApp.Services.dll
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.pdb
+D:\MyProjects\BigBiteBurgers-App\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\ref\BurgerApp.Services.dll
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.deps.json
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.dll
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.dll
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Mappers.dll
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.AssemblyReference.cache
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfoInputs.cache
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfo.cs
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CoreCompileInputs.cache
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CopyComplete
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.dll
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\refint\BurgerApp.Services.dll
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\ref\BurgerApp.Services.dll
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.deps.json
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.dll
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.dll
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.dll
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Mappers.dll
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.AssemblyReference.cache
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfoInputs.cache
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfo.cs
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CoreCompileInputs.cache
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CopyComplete
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.dll
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\refint\BurgerApp.Services.dll
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.pdb
+D:\MyProjects\BigBiteBurgers-App-MVC(2)\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\ref\BurgerApp.Services.dll
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Dto.dll
+D:\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Dto.pdb
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.deps.json
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.dll
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.pdb
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.dll
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.pdb
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.AssemblyReference.cache
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfoInputs.cache
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfo.cs
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CopyComplete
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.dll
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\refint\BurgerApp.Services.dll
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.pdb
+C:\Users\SlavePC\Desktop\MyProjects\BigBiteBurgers-App-MVC\BurgerApp.Refactored\BurgerApp.Services\obj\Debug\net6.0\ref\BurgerApp.Services.dll

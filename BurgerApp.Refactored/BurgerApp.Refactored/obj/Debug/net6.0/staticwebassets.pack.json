@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BurgerApp.Refactored.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BurgerApp.Refactored.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\BestCombo\\BestCombo1.png",
+      "PackagePath": "staticwebassets\\Images\\BestCombo\\BestCombo1.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\BestCombo\\BestCombo3.png",
+      "PackagePath": "staticwebassets\\Images\\BestCombo\\BestCombo3.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\BestCombo\\BestCombo4.png",
+      "PackagePath": "staticwebassets\\Images\\BestCombo\\BestCombo4.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Burgers\\AvocadoChicken.png",
+      "PackagePath": "staticwebassets\\Images\\Burgers\\AvocadoChicken.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Burgers\\BeyondBurger.png",
+      "PackagePath": "staticwebassets\\Images\\Burgers\\BeyondBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Burgers\\BigBiteBurger.png",
+      "PackagePath": "staticwebassets\\Images\\Burgers\\BigBiteBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Burgers\\BlueCheeseBurger.png",
+      "PackagePath": "staticwebassets\\Images\\Burgers\\BlueCheeseBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Burgers\\BreakfastBurger.png",
+      "PackagePath": "staticwebassets\\Images\\Burgers\\BreakfastBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Burgers\\Chicken.png",
+      "PackagePath": "staticwebassets\\Images\\Burgers\\Chicken.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Burgers\\ClassicBurger.png",
+      "PackagePath": "staticwebassets\\Images\\Burgers\\ClassicBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Burgers\\ClassicCheeseburger.png",
+      "PackagePath": "staticwebassets\\Images\\Burgers\\ClassicCheeseburger.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Burgers\\JalapeñoBurger.png",
+      "PackagePath": "staticwebassets\\Images\\Burgers\\JalapeñoBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Burgers\\MainMenuBurgers.png",
+      "PackagePath": "staticwebassets\\Images\\Burgers\\MainMenuBurgers.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Burgers\\VeggieBurger.png",
+      "PackagePath": "staticwebassets\\Images\\Burgers\\VeggieBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Drinks\\CocaCola.png",
+      "PackagePath": "staticwebassets\\Images\\Drinks\\CocaCola.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Drinks\\Fanta.png",
+      "PackagePath": "staticwebassets\\Images\\Drinks\\Fanta.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Drinks\\Heineken.png",
+      "PackagePath": "staticwebassets\\Images\\Drinks\\Heineken.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Drinks\\Lipton.png",
+      "PackagePath": "staticwebassets\\Images\\Drinks\\Lipton.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Drinks\\OrangeJuice.png",
+      "PackagePath": "staticwebassets\\Images\\Drinks\\OrangeJuice.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Drinks\\Pepsi.png",
+      "PackagePath": "staticwebassets\\Images\\Drinks\\Pepsi.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Drinks\\Rosa.png",
+      "PackagePath": "staticwebassets\\Images\\Drinks\\Rosa.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Drinks\\drinks.png",
+      "PackagePath": "staticwebassets\\Images\\Drinks\\drinks.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Fries\\Fries.png",
+      "PackagePath": "staticwebassets\\Images\\Fries\\Fries.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Fries\\Fries1.png",
+      "PackagePath": "staticwebassets\\Images\\Fries\\Fries1.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Fries\\LargeFries.png",
+      "PackagePath": "staticwebassets\\Images\\Fries\\LargeFries.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Fries\\MediumFries.png",
+      "PackagePath": "staticwebassets\\Images\\Fries\\MediumFries.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Fries\\SmallFries.png",
+      "PackagePath": "staticwebassets\\Images\\Fries\\SmallFries.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\LogoKlasik.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\LogoKlasik.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\badge.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\badge.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\bbq.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\bbq.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\burger.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\burger.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\cheese.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\cheese.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\drink-water.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\drink-water.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\facebook.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\fast-food.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\fast-food.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\google-maps.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\google-maps.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\grocery-store.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\grocery-store.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\instagram.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\round-bread.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\round-bread.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\sauces.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\sauces.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\steak.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\steak.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\support.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\support.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\tasty.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\tasty.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Logo\\telephone.png",
+      "PackagePath": "staticwebassets\\Images\\Logo\\telephone.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Pictures\\AboutUsImage.png",
+      "PackagePath": "staticwebassets\\Images\\Pictures\\AboutUsImage.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Pictures\\ComboMenu.png",
+      "PackagePath": "staticwebassets\\Images\\Pictures\\ComboMenu.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\Images\\Pictures\\HomePageImage.png",
+      "PackagePath": "staticwebassets\\Images\\Pictures\\HomePageImage.png"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SlavePC\\Desktop\\MyProjects\\BigBiteBurgers-App-MVC\\BurgerApp.Refactored\\BurgerApp.Refactored\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BurgerApp.Refactored.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BurgerApp.Refactored.props",
+      "PackagePath": "build\\BurgerApp.Refactored.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BurgerApp.Refactored.props",
+      "PackagePath": "buildMultiTargeting\\BurgerApp.Refactored.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BurgerApp.Refactored.props",
+      "PackagePath": "buildTransitive\\BurgerApp.Refactored.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

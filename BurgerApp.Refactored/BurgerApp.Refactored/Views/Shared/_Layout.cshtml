@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BurgerApp.Refactored</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BurgerApp.Refactored.styles.css" asp-append-version="true" />
+</head>
+<body class="bg-black">
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-black box-shadow">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/Images/Logo/LogoKlasik.png" alt="Big Bite Burgers Logo" width="200" height="100">
+                </a>
+                <button class="navbar-toggler bg-warning" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1 justify-content-end align-items-center">
+                        <li class="nav-item">
+                            <a class="nav-link text-warning" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-warning" asp-area="" asp-controller="Menu" asp-action="MainMenu">Menu</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-warning" asp-area="" asp-controller="Home" asp-action="AboutUs">About Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="">
+        <main role="main" class="">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top border-warning footer text-muted bg-black">
+        <div class="d-flex justify-content-evenly flex-wrap border-top border-warning">
+            <a href="https://www.google.com/maps/" target="_blank">
+                <img src="~/Images/Logo/google-maps.png" />
+            </a>
+            <img class="img-phone-footer" src="~/Images/Logo/telephone.png" />
+            <a class="text-decoration-none me-3" href="https://www.instagram.com/" target="_blank">
+                <img src="~/Images/Logo/instagram.png" />
+            </a>
+            <a href="https://www.facebook.com/" target="_blank">
+                <img src="~/Images/Logo/facebook.png" />
+            </a>
+            <span class="text-light">&copy; Big Bite Burgers - All right reserved</span>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

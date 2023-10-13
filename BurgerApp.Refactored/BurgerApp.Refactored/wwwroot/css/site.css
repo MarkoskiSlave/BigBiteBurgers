@@ -1,0 +1,184 @@
+@media (max-width: 574px) {
+    .flex-xs-column {
+        flex-direction: column;
+    }
+    .align-items-xs-start {
+        align-items: start !important;
+    }
+    .align-items-xs-end {
+        align-items: end !important;
+    }
+    .w-xs-50 {
+        width: 50% !important;
+    }
+    .home-main-text-size-xs {
+        font-size: 20px;
+    }
+    .mainMenuCard {
+        width: 12rem !important;
+    }
+
+    .mainMenuImages {
+        height: 190.4px !important;
+    }
+}
+
+@media (min-width: 575px) and (max-width: 768px) {
+    .home-main-text-size-md {
+        font-size: 20px;
+    }
+    .mainMenuCard {
+        width: 13rem !important;
+    }
+    .mainMenuImages {
+        height: 206.4px !important;
+    }
+}
+
+@media (min-width: 769px) {
+    .home-main-text-size-lg {
+        font-size: 30px;
+    }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.bg-black {
+    background-color: black;
+}
+.flex-basis-50 {
+    flex-basis: 50%;
+}
+#homePageImage {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.custom-height {
+    height: 400px;
+}
+.w-30 {
+    width: 30%;
+}
+.about-us-text-size-main-p {
+    font-size: 30px;
+}
+.mainMenuCard {
+    width: 15rem;
+}
+.mainMenuImages {
+    height: 160.4px;
+}
+.fries-image {
+    width: 130px;
+    height: 183px
+}
+.drinkMenuImages {
+    height:160px
+}
+.price-font-size {
+    font-size: 20px;
+}
+.img-phone-footer {
+    height:32px;
+    margin-top:15px;
+}
+.margin-bottom-10rem{
+    margin-bottom:10rem;
+}
+.wrapper {
+    height: 40px;
+    min-width: 100px;
+    border-radius: 12px;
+}
+.wrapper span{
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+  cursor: pointer; 
+}
+.wrapper span.number {
+    font-size: 25px;
+    pointer-events: none;
+}
+.cardParagraph {
+    height: 40px;
+    width: 60px;
+    border-radius: 10px;
+
+}
+.add-to-cart-button {
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor:pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+.cartImageSpan {
+    border: dashed;
+    border-top: 0;
+    border-bottom: 0;
+    border-left: 0;
+    border-color: #ffcc00;
+}
+.add-to-cart-button:hover {
+    background-color: greenyellow;
+}
+
+.add-to-cart-button:active {
+    transform: scale(0.95);
+}
+/*Drinks Card*/
+.flip-card {
+    background-color: transparent;
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    border-radius: 5rem;
+    perspective: 1000px;
+}
+
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    border-radius: 3rem;
+}
+
+.flip-card-front {
+    background-color: inherit;
+}
+
+.flip-card-back {
+    transform: rotateY(180deg);
+}
+.radius-30 {
+    border-radius: 30px;
+}
+.italic {
+    font-style: italic;
+}

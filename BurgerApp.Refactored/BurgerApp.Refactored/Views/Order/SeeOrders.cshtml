@@ -1,0 +1,44 @@
+﻿@* @using BurgerApp.Models.ViewModels
+@using BurgerApp.Domain.Enums
+@model List<OrderDetailsViewModel>
+
+<div class="container d-flex justify-content-center flex-wrap">
+    @foreach (var order in Model)
+    {
+        <div class="card m-5" style="width: 18rem;">
+            <div class="card-body">
+                <p class="card-text">Order Id: <b>@order.Id</b></p>
+                <p class="card-text">Burger Name: <b>@order.BurgerName</b></p>
+                <p class="card-text">User Full Name: <b>@order.UserFullName</b></p>
+                @if (order.IsDelivered)
+                {
+                    <p class="card-text">Price: <b>@(order.Price + 5)$</b></p>
+                }
+                else
+                {
+                    <p class="card-text">Price: <b>@order.Price$</b></p>
+                }
+                <p class="card-text">Address: <b>@order.Address</b></p>
+                <p class="card-text">Location: <b>@order.Location</b></p>
+                <p class="card-text">Payment Method: <b>@order.PaymentMethond</b></p>
+                <p class="card-text">For Delivery: <b>@order.IsDelivered</b></p>
+                <p class="card-text">Phone Number: <b>@order.UserPhoneNumber</b></p>
+
+                <button class="btn btn-primary me-3">
+                    <a class="text-light text-decoration-none" asp-controller="Order" asp-action="EditOrder" asp-route-id="@order.Id">Edit Order</a>
+                </button>
+                <button class="btn btn-danger">
+                    <a class="text-light text-decoration-none" asp-controller="Order" asp-action="DeleteOrder" asp-route-id="@order.Id">Delete Order</a>
+                </button>
+            </div>
+        </div>
+    }
+</div>
+
+<div class="d-flex justify-content-center align-items-center flex-column">
+    <h6 class="text-center mt-3">To create a new order press the button below</h6>
+    <button class="btn btn-success mt-3 w-25 align-items-center">
+        <a class="text-light text-decoration-none" asp-controller="Order" asp-action="CreateOrder">Add Order</a>
+    </button>
+</div>
+ *@
